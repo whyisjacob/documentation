@@ -34,7 +34,7 @@ The following OpenTelemetry features implemented in the Datadog library as noted
 
 1. Add the [Datadog tracing library to the JVM][11].
 
-1. Make sure you only depends from OpenTelemetry API (and not OpenTelemetry SDK).
+1. Make sure you only depend on the OpenTelemetry API (and not OpenTelemetry SDK).
 
     Using Maven:
     ```xml
