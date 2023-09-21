@@ -1,0 +1,6 @@
+{
+  "attributes": {
+    "cloud_account_id": 1
+  },
+  "type": "azure_uc_config_delete_request"
+}

@@ -1,0 +1,6 @@
+{
+  "attributes": {
+    "cloud_account_id": 1
+  },
+  "type": "aws_cur_config_patch_request"
+}
